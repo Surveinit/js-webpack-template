@@ -2,8 +2,6 @@
 
 This is a simple Webpack setup for modern JavaScript projects. It includes support for HTML, CSS, and image assets, making it easy to start building applications without complex configurations.
 
----
-
 ## 📌 Features
 ✅ Webpack setup for bundling JavaScript  
 ✅ Supports CSS imports with automatic injection  
@@ -68,6 +66,8 @@ This will generate a dist/ folder with minified files.
 ```sh
 npm run build
 ```
+
+---
 
 ### **📂 Folder Structure**
 
